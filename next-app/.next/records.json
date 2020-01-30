@@ -1,0 +1,54 @@
+{
+  "mini-css-extract-plugin ../../Exemplo Prático 1\\next-app\\node_modules\\@zeit\\next-css\\node_modules\\css-loader\\index.js??ref--5-1!../../Exemplo Prático 1\\next-app\\pages\\App.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "css ../../Exemplo Prático 1\\next-app\\node_modules\\@zeit\\next-css\\node_modules\\css-loader\\index.js??ref--5-1!../../Exemplo Prático 1\\next-app\\pages\\App.css 0": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/runtime/webpack.js": 0,
+      "commons": 1,
+      "framework": 2,
+      "cc9fdb0ff3f487352c8fdefd630bee3145f2b021": 3,
+      "static/runtime/main.js": 4,
+      "static/runtime/polyfills.js": 5,
+      "static\\oFSA3MSYmOHHKf9_-djeg\\pages\\_app.js": 6,
+      "static\\oFSA3MSYmOHHKf9_-djeg\\pages\\_error.js": 7,
+      "static\\oFSA3MSYmOHHKf9_-djeg\\pages\\index.js": 8,
+      "styles": 9
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}
